@@ -1,0 +1,1 @@
+export const API = 'http://192.168.26.19:3004/api/chat/'
